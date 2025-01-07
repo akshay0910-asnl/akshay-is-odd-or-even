@@ -6,4 +6,4 @@ const isOddOrEven = (n) => {
   }
 }
 
-console.log(Object.keys(module));
+module.exports = isOddOrEven;
